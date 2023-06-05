@@ -1,6 +1,6 @@
 // La idea era hacer un simulador de compras de una página de indumentaria y accesorios deportivos.
 // Cada producto tiene distinto precio, se añade al carrito esos precios, se suman y se muestra el total del carrito por
-// la consola.
+// la consola y por alerts.
 
 
 let carritoDeCompras = 0;
